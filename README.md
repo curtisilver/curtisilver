@@ -55,4 +55,4 @@ I read security through that lens. A finding isn't interesting because the tool 
 ![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-1F3864?style=flat)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat)
 
-<p align="center"><i>Operator's judgment, security's discipline.</i></p>
+<p align="center"><i>I've read risk from the P&L. Now from the control set.</i></p>
