@@ -16,7 +16,7 @@
 
 ---
 
-For eight years I've been accountable for the things governance is actually about: compliance, records, people, and operational risk, while running a multi-brand business in Karnataka. Tax compliance and book-keeping. Hiring, managing, and keeping staff. Vendors and events coordinated under real accountability. AI-agentic workflows built into day-to-day operations. I know what a control costs a business, not just what the framework says it should do.
+For seven years I've been accountable for the things governance is actually about: compliance, records, people, and operational risk, while running a multi-brand business in Karnataka. Tax compliance and book-keeping. Hiring, managing, and keeping staff. Vendors and events coordinated under real accountability. AI-agentic workflows built into day-to-day operations. I know what a control costs a business, not just what the framework says it should do.
 
 I read security through that lens. A finding isn't interesting because the tool flagged it. It matters for what it would cost the business and what it takes to actually close it. The labs below are where I've put that into practice: SOC engineering, SIEM, and penetration testing, each documented to professional standards.
 
