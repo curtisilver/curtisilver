@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Eight years running a multi-brand business, now reading information security through that lens.
+  Seven years running a multi-brand business, now reading information security through that lens.
 </p>
 
 <p align="center">
